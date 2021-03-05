@@ -17,7 +17,7 @@ WIP
     title        = {{ARTIV : Open-Source Autonomous Shuttle Framework}},
     month        = mar,
     year         = 2021,
-    doi          = {10.5281/zenodo.15991},
+    doi          = {},
     version      = {1.0},
     publisher    = {github},
     url          = {https://github.com/DGIST-ARTIV/ARTIVFramework}
